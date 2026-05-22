@@ -66,7 +66,7 @@ Full-stack social media application with authentication, user interactions, and 
 
 **Tech:** React, Node.js, Express, MongoDB
 
-🔗 **Live Demo:** *Available Soon*  
+🔗 **Live Demo:** https://affina.netlify.app/
 🔗 **Repository:** https://github.com/TechSwimmer/Affina
 
 ---
@@ -140,7 +140,7 @@ Previously worked as a **Senior Executive at Hexaware Technologies (First Advant
 https://github.com/TechSwimmer
 
 **Portfolio**  
-*Live Portfolio Available Soon*
+https://techdevnikhil.netlify.app/
 
 **Codewars**  
 https://www.codewars.com/users/techDevNikhil
