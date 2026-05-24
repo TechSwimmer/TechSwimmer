@@ -175,19 +175,17 @@ Previously worked as a Senior Executive at Hexaware Technologies (First Advantag
 
 ## 📊 GitHub Stats
 
-<div align="center">
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TechSwimmer&show_icons=true&cache_seconds=1800" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=TechSwimmer&show_icons=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TechSwimmer&layout=compact&cache_seconds=1800" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=TechSwimmer&layout=compact" />
 </p>
 
-<img height="180em" src="https://streak-stats.demolab.com?user=TechSwimmer&theme=default" />
-
-</div>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=TechSwimmer" />
+</p>
 
 ---
 
